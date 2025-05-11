@@ -31,7 +31,7 @@ export default function Home() {
         </div>
 
         <p style={{ marginTop: 20 }}>
-          <Link href="/PrivacyPolicy">Privacy Policy</Link>
+          <Link href="/privacy">Privacy Policy</Link>
         </p>
       </main>
     </>
